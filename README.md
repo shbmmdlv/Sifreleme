@@ -48,7 +48,12 @@ Metni girin: hello
 
 *Geliştirme Önerileri*
 Farklı şifreleme algoritmaları eklenebilir (örn: Vigenère Cipher, AES).
+
 Dosya şifreleme özelliği eklenebilir.
+
+
 Kullanıcıdan özel anahtar alma seçeneği eklenebilir.
+
+
 *Lisans*
 Bu proje açık kaynaklıdır ve herkes tarafından geliştirilebilir.
